@@ -15,7 +15,7 @@
 <h3 align="center">My best project</h3>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nert1n&repo=weather-in-cities&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nert1n&repo=weather-in-cities&theme=dark&hide_border=true">
 </p>
 
 
