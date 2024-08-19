@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=I'm%20junior%20frontend%20developer%20from%20Ukraine!&descAlignY=51&descAlign=62" alt=""></h1>
+<h1 align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=I'm%20frontend%20developer!&descAlignY=51&descAlign=62" alt=""></h1>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=nert1n">
