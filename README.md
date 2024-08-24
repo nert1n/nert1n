@@ -27,6 +27,14 @@ I am a Junior Frontend Developer with experience in building and developing web 
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router">
+  <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint">
+  <img src="https://img.shields.io/badge/Prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7B93E" alt="Prettier">
+  <img src="https://img.shields.io/badge/pnpm-%23333333.svg?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm">
+  <img src="https://img.shields.io/badge/BEM-%23000000.svg?style=for-the-badge&logo=bem&logoColor=white" alt="BEM">
+  <img src="https://img.shields.io/badge/CI%2FCD-%2320232a.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD">
+  <img src="https://img.shields.io/badge/Axios-%235A29E4.svg?style=for-the-badge&logo=axios&logoColor=white" alt="Axios">
+  <img src="https://img.shields.io/badge/RTK_Query-%235A29E4.svg?style=for-the-badge&logo=redux&logoColor=white" alt="RTK Query">
+  <img src="https://img.shields.io/badge/Zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white" alt="Zustand">
 </p>
 
 ---
