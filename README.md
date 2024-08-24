@@ -8,13 +8,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nert1n&theme=dark&hide_border=true&card_width=500" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nert1n&theme=dark&hide_border=true&layout=compact" alt="Top Languages">
-</p>
-
----
-
 ## 🚀 About Me
 
 I am a Junior Frontend Developer with experience in building and developing web applications. Skilled in modern libraries and frameworks such as React, Next.js, and TypeScript. Committed to continuous growth and learning in the field of frontend development.
@@ -49,19 +42,20 @@ An application that provides current weather information for cities around the w
 
 ---
 
-## 🏆 Codewars
-
-<p align="center">
-  <img src="https://www.codewars.com/users/nert1n/badges/large" alt="Codewars Badge">
-</p>
-
----
-
 ## 📈 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nert1n&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nert1n&theme=dark" alt="Profile Details">
+  <img src="https://streak-stats.demolab.com?user=nert1n&theme=dark&hide_border=true&card_width=500" alt="GitHub Streak">
+</p>
+
+---
+
+## 🏆 Codewars
+
+<p align="center">
+  <img src="https://www.codewars.com/users/nert1n/badges/large" alt="Codewars Badge">
 </p>
 
 ---
