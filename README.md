@@ -46,9 +46,9 @@ An application that provides current weather information for cities around the w
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nert1n&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nert1n&theme=dark" alt="Profile Details">
   <img src="https://streak-stats.demolab.com?user=nert1n&theme=dark&hide_border=true&card_width=500" alt="GitHub Streak">
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nert1n&theme=dark" alt="Profile Details">
+/p>
 
 ---
 
