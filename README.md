@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I am a Junior Frontend Developer with experience in building and developing web applications. Skilled in modern libraries and frameworks such as React, Next.js, and TypeScript. Committed to continuous growth and learning in the field of frontend development.
+I am a Middle+ Frontend Developer with experience in building and developing web applications. Skilled in modern libraries and frameworks such as React, Next.js, and TypeScript. Committed to continuous growth and learning in the field of frontend development.
 
 ---
 
